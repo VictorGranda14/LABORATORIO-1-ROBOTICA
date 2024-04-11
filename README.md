@@ -1,5 +1,5 @@
 # LABORATORIO-1-ROBÓTICA
+Benjamin Rojas
 Ramiro Magnatera
 Vicente Sarabia
-Benjamin Rojas
 Victor Granda
